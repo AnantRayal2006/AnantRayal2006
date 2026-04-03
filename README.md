@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="100"/>
+  <img src="https://skillicons.dev/icons?i=github" height="70"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantRayal2006&theme=radical"/>
