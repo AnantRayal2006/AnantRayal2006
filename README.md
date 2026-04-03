@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8b0000,ff0000&height=250&section=header&text=Hi%20👋,%20I'm%20Anant&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-<!--
-**AnantRayal2006/AnantRayal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Making;Python+Developer;DSA+Learner;Building+Cool+Projects"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😈 About Me
+- 🎓 BTech CSE @ LPU (2028)  
+- 🧠 Learning DSA + AI/ML  
+- ⚡ Goal: Crack top MNC  
+- 🔥 Love building projects  
+
+---
+
+## 🚀 Tech Stack
+- 💻 Python, C, Java  
+- 🌐 HTML, CSS, React  
+- 📊 DSA, AI/ML  
+
+---
+
+## 🔥 Projects
+- 🎮 Rock Paper Scissors  
+- 🛡️ System Checker  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantRayal2006&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantRayal2006&theme=radical"/>
+</p>
