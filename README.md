@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Tech Stack
-- 💻 Python, C, Java  
+- 💻 Python, C, Java, Kotlin
 - 🌐 HTML, CSS, React  
 - 📊 DSA, AI/ML  
 
